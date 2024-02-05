@@ -1,0 +1,27 @@
+{
+  "type": "tconstruct:alloy",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:ingots/bronze",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "inputs": [
+    {
+      "tag": "forge:molten_bronze",
+      "amount": 180
+    },
+    {
+      "tag": "forge:dense_redstone",
+      "amount": 180
+    }
+  ],
+  "result": {
+    "fluid": "tetinker:molten_powered_tin",
+    "amount": 270
+  },
+  "temperature": 300
+}

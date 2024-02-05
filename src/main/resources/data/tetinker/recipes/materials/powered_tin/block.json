@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "tag": "forge:storage_blocks/powered_tin"
+  },
+  "value": 9,
+  "needed": 1,
+  "material": "tetinker:powered_tin",
+  "leftover": {
+    "tag": "forge:ingots/powered_tin"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "tconstruct:modifier",
+  "inputs": [
+    {
+      "item": "ten3:bizarrerie"
+    },
+    {
+      "item": "ten3:bizarrerie"
+    },
+    {
+      "item": "ten3:bizarrerie"
+    },
+    {
+      "item": "ten3:bizarrerie"
+    },
+    {
+      "item": "ten3:bizarrerie"
+    }
+  ],
+  "tools": {
+    "tag": "tconstruct:modifiable"
+  },
+  "allow_crystal": true,
+  "result": {
+    "name": "tetinker:bizarrerie",
+    "level": 1
+  },
+  "max_level": 1
+}

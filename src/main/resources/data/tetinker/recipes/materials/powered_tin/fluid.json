@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "tag": "forge:molten_powered_tin",
+    "amount": 90
+  },
+  "temperature": 300,
+  "output": "tetinker:powered_tin"
+}

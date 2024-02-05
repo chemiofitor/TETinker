@@ -1,7 +1,7 @@
 modLoader="javafml" #mandatory
 loaderVersion="${loader_version_range}" #mandatory
 license="${mod_license}"
-issueTrackerURL="https://change.me.to.your.issue.tracker.example.invalid/"
+issueTrackerURL="https://github.com/chemiofitor/TETinker/issues"
 [[mods]]
 modId="tetinker" #mandatory
 version="${mod_version}" #mandatory
@@ -20,5 +20,11 @@ description='''${mod_description}'''
    modId="minecraft"
    mandatory=true
    versionRange="${minecraft_version_range}"
+   ordering="NONE"
+   side="BOTH"
+[[dependencies.tetinker]]
+   modId="ten3"
+   mandatory=true
+   versionRange="[18.0,)"
    ordering="NONE"
    side="BOTH"

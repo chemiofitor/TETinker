@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "tag": "forge:molten_chlorium",
+    "amount": 90
+  },
+  "temperature": 800,
+  "output": "tetinker:chlorium"
+}

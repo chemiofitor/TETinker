@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "tag": "forge:storage_blocks/chlorium"
+  },
+  "value": 9,
+  "needed": 1,
+  "material": "tetinker:chlorium",
+  "leftover": {
+    "tag": "forge:ingots/chlorium"
+  }
+}

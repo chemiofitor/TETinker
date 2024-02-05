@@ -1,0 +1,22 @@
+{
+  "material.tetinker.chlorium": "Chlorium",
+  "material.tetinker.powered_tin": "Powered Tin",
+
+  "modifier.tetinker.photosynthesis": "Photosynthesis",
+  "modifier.tetinker.photosynthesis.flavor": "Self repair!",
+  "modifier.tetinker.photosynthesis.description": "Tool can repair itself when it rains or during the day.",
+
+  "modifier.tetinker.bizarrerie": "Bizarrerie",
+  "modifier.tetinker.bizarrerie.flavor": "Bizarre substance?!",
+  "modifier.tetinker.bizarrerie.description": "The substance allows your tool a ability slot!",
+
+  "fluid.tetinker.molten_chlorium": "Molten Chlorium",
+  "fluid.tetinker.molten_powered_tin": "Molten Powered Tin",
+  "fluid.tetinker.dense_glowstone": "Dense Glowstone",
+  "fluid.tetinker.dense_redstone": "Dense Redstone",
+
+  "item.tetinker.molten_chlorium_bucket": "Molten Chlorium Bucket",
+  "item.tetinker.molten_powered_tin_bucket": "Molten Powered Tin Bucket",
+  "item.tetinker.dense_glowstone_bucket": "Dense Glowstone Bucket",
+  "item.tetinker.dense_redstone_bucket": "Dense Redstone Tin Bucket"
+}

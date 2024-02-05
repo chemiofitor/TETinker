@@ -1,0 +1,22 @@
+{
+  "material.tetinker.chlorium": "叶绿",
+  "material.tetinker.powered_tin": "充能锡",
+
+  "modifier.tetinker.photosynthesis": "光合作用",
+  "modifier.tetinker.photosynthesis.description": "工具可以在下雨时或者白天自我修复",
+  "modifier.tetinker.photosynthesis.flavor": "自我修复!",
+
+  "modifier.tetinker.bizarrerie": "奇异",
+  "modifier.tetinker.bizarrerie.flavor": "奇异造物?!",
+  "modifier.tetinker.bizarrerie.description": "未知的奇异物品为你创造出了1个新的能力槽",
+
+  "fluid.tetinker.dense_glowstone": "稠密萤石",
+  "fluid.tetinker.dense_redstone": "稠密红石",
+  "fluid.tetinker.molten_chlorium": "熔融叶绿",
+  "fluid.tetinker.molten_powered_tin": "熔融充能锡",
+
+  "item.tetinker.dense_glowstone_bucket": "稠密萤石桶",
+  "item.tetinker.dense_redstone_bucket": "稠密红石桶",
+  "item.tetinker.molten_chlorium_bucket": "熔融叶绿桶",
+  "item.tetinker.molten_powered_tin_bucket": "熔融充能锡桶"
+}

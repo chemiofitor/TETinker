@@ -1,0 +1,9 @@
+{
+  "modifier.tetinker": {
+    "photosynthesis": "#78D32E"
+  },
+  "material.tetinker": {
+    "chlorium": "#84E833",
+    "powered_tin": "#84C1ED"
+  }
+}
