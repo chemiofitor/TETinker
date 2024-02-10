@@ -1,0 +1,24 @@
+{
+  "type": "ten3:refiner",
+  "inputs": [
+    {
+      "form": "item",
+      "type": "tag",
+      "key": "minecraft:planks"
+    },
+    {
+      "form": "fluid",
+      "type": "static",
+      "key": "minecraft:lava",
+      "amount": 100
+    }
+  ],
+  "outputs": [
+    {
+      "form": "item",
+      "key": "tconstruct:lavawood",
+      "count": 1
+    }
+  ],
+  "time": 200
+}
